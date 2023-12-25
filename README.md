@@ -17,7 +17,7 @@ The "buso" theme is a minimalistic [OhMyZsh](https://ohmyz.sh/) theme I've creat
 ![screenshot](./img/zsh-theme-buso.png)
 
 ## Usage
-## Prerequisite
+### Prerequisite
 To use this theme, ensure the following prerequisites are met:
 
 - OhMyZsh Installed: Make sure OhMyZsh is already installed on your system.
