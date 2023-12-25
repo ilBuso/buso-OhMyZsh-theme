@@ -1,5 +1,7 @@
 # oh-my-zsh theme - by ilBuso
 
+# design credit to (https://ohmyposh.dev/docs/themes#amro)
+
 # for the unicode character to work a nerdfont (or similar) is needed
 
 #-----------------------------------------#
@@ -20,11 +22,22 @@ fi
 
 #-----------------------------------------#
 
-### prefix and suffix of the git branch
-# remove "git:(" and addbranch simbol
-ZSH_THEME_GIT_PROMPT_PREFIX="on %{$dirtylightblue%}\uE0A0"
-# remove ")"
+#remove all git simbols
+ZSH_THEME_GIT_PROMPT_ADDED=""
+ZSH_THEME_GIT_PROMPT_MODIFIED=""
+ZSH_THEME_GIT_PROMPT_DELETED=""
+ZSH_THEME_GIT_PROMPT_RENAMED=""
+ZSH_THEME_GIT_PROMPT_UNMERGED=""
+ZSH_THEME_GIT_PROMPT_UNTRACKED=""
+ZSH_THEME_GIT_PROMPT_DIRTY=""
+ZSH_THEME_GIT_PROMPT_CLEAN=""
+ZSH_THEME_GIT_PROMPT_AHEAD_REMOTE=""
+ZSH_THEME_GIT_PROMPT_BEHIND_REMOTE=""
+ZSH_THEME_GIT_PROMPT_REMOTE_STATUS_DETAILED=false
 ZSH_THEME_GIT_PROMPT_SUFFIX=""
+
+# remove "git:(" and add branch simbol
+ZSH_THEME_GIT_PROMPT_PREFIX="on %{$dirtylightblue%}\uE0A0"
 
 #-----------------------------------------#
 
