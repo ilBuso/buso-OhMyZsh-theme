@@ -1,7 +1,7 @@
 # buso-OhMyZsh-theme  - by ilBuso
 
 ## Table of Content
-- [buso-OhMyZsh-theme](#buso-OhMyZsh-theme---by-ilbuso)
+- [buso-OhMyZsh-theme](#buso-ohmyzsh-theme---by-ilbuso)
     - [Table of Content](#table-of-content)
     - [About](#about)
     - [Screenshots](#screenshots)
