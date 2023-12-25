@@ -1,11 +1,13 @@
-# OhMyZsh-Theme - by ilBuso
+# buso-OhMyZsh-theme  - by ilBuso
 
 ## Table of Content
-- [OhMyZsh-Theme](#ohmyzsh-theme---by-ilbuso)
+- [buso-OhMyZsh-theme](#buso-OhMyZsh-theme---by-ilbuso)
     - [Table of Content](#table-of-content)
     - [About](#about)
     - [Screenshots](#screenshots)
-    - [Installation](#installation)
+    - [Usage](#usage)
+        - [Prerequisite](#prerequisite)
+        - [Installation](#installation)          
     - [Configuration .zshrc](#configuration-zshrc)
 
 ## About
