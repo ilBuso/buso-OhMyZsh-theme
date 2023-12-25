@@ -26,11 +26,11 @@ To use this theme, ensure the following prerequisites are met:
 
 ### Installation
 To install the `buso` theme, run the following command:
-```Bash
+```Shell
 git clone https://github.com/ilBuso/ohmyzsh-theme.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/themes
 ```
 To set `buso.zsh-theme` as the default theme in the `.zshrc` file, add:
-```Bash
+```Shell
 ZSH_THEME="buso"
 ```
 
@@ -39,7 +39,7 @@ This is my persona configuration of the `.zshrc` file, feel free to copy it and 
 
 `zsh-autosuggestions`and `zsh-syntax-highlighting` are not avvailable by default they must be installed ( [autosuggestions](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md#oh-my-zsh) ) ( [syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md#oh-my-zsh) )
 
-```Bash
+```Shell
 # Path to your oh-my-zsh installation.
 export ZSH="$HOME/.oh-my-zsh"
 
